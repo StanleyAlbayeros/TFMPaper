@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  13 SEP 2021 23:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  14 SEP 2021 18:18
 entering extended mode
 **d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
 (d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
@@ -181,7 +181,20 @@ Package: cite 2015/02/27  v 5.5
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box51
-) (MasterThesis.aux)
+) (MasterThesis.aux
+
+LaTeX Warning: Label `fig:figA' multiply defined.
+
+
+LaTeX Warning: Label `fig:emotionandtime' multiply defined.
+
+
+LaTeX Warning: Label `fig:figA' multiply defined.
+
+
+LaTeX Warning: Label `fig:emotionandtime' multiply defined.
+
+)
 \openout1 = `MasterThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 384.
@@ -218,93 +231,81 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) [1{C:/Users/drkzt/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+)) (state_of_the_art.tex [1{C:/Users/drkzt/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 <resources/styleg.png, id=7, 1877.51437pt x 928.97063pt>
 File: resources/styleg.png Graphic file (type png)
 <use resources/styleg.png>
-Package pdftex.def Info: resources/styleg.png  used on input line 510.
+Package pdftex.def Info: resources/styleg.png  used on input line 15.
 (pdftex.def)             Requested size: 516.0pt x 255.3047pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 513.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 513.
+(Font)              <5> on input line 18.
 <resources/styleface.png, id=9, 328.22626pt x 439.6425pt>
 File: resources/styleface.png Graphic file (type png)
 <use resources/styleface.png>
-Package pdftex.def Info: resources/styleface.png  used on input line 531.
+Package pdftex.def Info: resources/styleface.png  used on input line 36.
 (pdftex.def)             Requested size: 227.62204pt x 304.88986pt.
- [2 <./resources/styleg.png>] [3 <./resources/styleface.png>]
-<resources/emotionvsframe.png, id=20, 434.1018pt x 327.8649pt>
-File: resources/emotionvsframe.png Graphic file (type png)
-<use resources/emotionvsframe.png>
-Package pdftex.def Info: resources/emotionvsframe.png  used on input line 624.
-(pdftex.def)             Requested size: 212.71175pt x 160.6552pt.
-<resources/timeseriesplot.png, id=21, 410.0118pt x 327.8649pt>
+ [2 <./resources/styleg.png>]) (method.tex [3 <./resources/styleface.png>]
+<resources/fervsferplus.png, id=20, 441.14813pt x 194.22563pt>
+File: resources/fervsferplus.png Graphic file (type png)
+<use resources/fervsferplus.png>
+Package pdftex.def Info: resources/fervsferplus.png  used on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 125.27605pt.
+ [4 <./resources/fervsferplus.png>]) (experiments.tex
+<resources/state_machine.png, id=25, 1354.05875pt x 803.0pt>
+File: resources/state_machine.png Graphic file (type png)
+<use resources/state_machine.png>
+Package pdftex.def Info: resources/state_machine.png  used on input line 40.
+(pdftex.def)             Requested size: 516.0pt x 306.01312pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (results.tex
+<resources/emotion_faces_1.png, id=26, 572.89032pt x 362.10281pt>
+File: resources/emotion_faces_1.png Graphic file (type png)
+<use resources/emotion_faces_1.png>
+Package pdftex.def Info: resources/emotion_faces_1.png  used on input line 14.
+(pdftex.def)             Requested size: 256.0748pt x 161.85628pt.
+<resources/timeseriesplot.png, id=27, 410.0118pt x 327.8649pt>
 File: resources/timeseriesplot.png Graphic file (type png)
 <use resources/timeseriesplot.png>
-Package pdftex.def Info: resources/timeseriesplot.png  used on input line 628.
-(pdftex.def)             Requested size: 200.90753pt x 160.6552pt.
- [4] (MasterThesis.bbl
-MasterThesis.bbl:34: Missing $ inserted.
-<inserted text> 
-                $
-l.34 ...uab.cat/pub/tfg/2019/tfg_151968/Final.pdf}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
-MasterThesis.bbl:36: Missing $ inserted.
-<inserted text> 
-                $
-l.36 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-MasterThesis.bbl:36: Missing } inserted.
-<inserted text> 
-                }
-l.36 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Package pdftex.def Info: resources/timeseriesplot.png  used on input line 23.
+(pdftex.def)             Requested size: 213.48889pt x 170.71652pt.
+<resources/emotionvsframe.png, id=28, 449.0376pt x 340.6326pt>
+File: resources/emotionvsframe.png Graphic file (type png)
+<use resources/emotionvsframe.png>
+Package pdftex.def Info: resources/emotionvsframe.png  used on input line 27.
+(pdftex.def)             Requested size: 225.04582pt x 170.71652pt.
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 32--36
-[]\OT1/ptm/m/n/8 S. Al-bayeros Duarte, ``Face-following robot arm with emo-tion de-tec-tion,'' 2019. [On-line]. Avail-able:
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-MasterThesis.bbl:36: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.36 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+<resources/styletransfer_grid.png, id=29, 1458.19781pt x 773.13844pt>
+File: resources/styletransfer_grid.png Graphic file (type png)
+<use resources/styletransfer_grid.png>
+Package pdftex.def Info: resources/styletransfer_grid.png  used on input line 45.
+(pdftex.def)             Requested size: 369.88582pt x 196.10365pt.
+) (conclusions.tex) [5] [6 <./resources/state_machine.png> <./resources/emotion_faces_1.png>] [7 <./resources/timeseriesplot.png> <./resources/emotionvsframe.png> <./resources/styletransfer_grid.png>] (MasterThesis.bbl) [8
 
-) [5 <./resources/emotionvsframe.png> <./resources/timeseriesplot.png>] (MasterThesis.aux) ) 
+] (MasterThesis.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3794 strings out of 478864
- 66369 string characters out of 2858517
- 368518 words of memory out of 3000000
- 21703 multiletter control sequences out of 15000+600000
- 439274 words of font info for 87 fonts, out of 8000000 for 9000
+ 3843 strings out of 478864
+ 67846 string characters out of 2858517
+ 373518 words of memory out of 3000000
+ 21739 multiletter control sequences out of 15000+600000
+ 437451 words of font info for 81 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 57i,9n,66p,1197b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MasterThesis.pdf (5 pages, 7705716 bytes).
+ 57i,8n,66p,1226b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on MasterThesis.pdf (8 pages, 11203458 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

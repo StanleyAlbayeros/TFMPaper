@@ -106,4 +106,42 @@ T.~Gunawan, A.~Ashraf, B.~Riza, E.~Haryanto, R.~Rosnelly, M.~Kartiwi, and
   learning with google colab,'' \emph{TELKOMNIKA Indonesian Journal of
   Electrical Engineering}, vol.~18, pp. 2463--2471, 10 2020.
 
+\bibitem{BarsoumICMI2016}
+E.~Barsoum, C.~Zhang, C.~Canton~Ferrer, and Z.~Zhang, ``Training deep networks
+  for facial expression recognition with crowd-sourced label distribution,'' in
+  \emph{ACM International Conference on Multimodal Interaction (ICMI)}, 2016.
+
+\bibitem{FER2013}
+\BIBentryALTinterwordspacing
+2013. [Online]. Available:
+  \url{https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Johnson2016Perceptual}
+J.~Johnson, A.~Alahi, and L.~Fei-Fei, ``Perceptual losses for real-time style
+  transfer and super-resolution,'' in \emph{European Conference on Computer
+  Vision}, 2016.
+
+\bibitem{nvlabs_2019}
+\BIBentryALTinterwordspacing
+NVlabs, ``Nvlabs/ffhq-dataset: Flickr-faces-hq dataset (ffhq),'' Dec 2019.
+  [Online]. Available: \url{https://github.com/NVlabs/ffhq-dataset}
+\BIBentrySTDinterwordspacing
+
+\bibitem{DBLP:journals/corr/LinMBHPRDZ14}
+\BIBentryALTinterwordspacing
+T.~Lin, M.~Maire, S.~J. Belongie, L.~D. Bourdev, R.~B. Girshick, J.~Hays,
+  P.~Perona, D.~Ramanan, P.~Doll{\'{a}}r, and C.~L. Zitnick, ``Microsoft
+  {COCO:} common objects in context,'' \emph{CoRR}, vol. abs/1405.0312, 2014.
+  [Online]. Available: \url{http://arxiv.org/abs/1405.0312}
+\BIBentrySTDinterwordspacing
+
+\bibitem{DBLP:journals/corr/abs-1710-07557}
+\BIBentryALTinterwordspacing
+O.~Arriaga, M.~Valdenegro{-}Toro, and P.~Pl{\"{o}}ger, ``Real-time
+  convolutional neural networks for emotion and gender classification,''
+  \emph{CoRR}, vol. abs/1710.07557, 2017. [Online]. Available:
+  \url{http://arxiv.org/abs/1710.07557}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

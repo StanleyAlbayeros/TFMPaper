@@ -7,7 +7,7 @@
 \citation{DBLP:journals/corr/BengioT13}
 \citation{stylegan}
 \@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {II}Introduction}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {II}State of the Art}{1}{}\protected@file@percent }
 \citation{radford_metz_chintala_2015}
 \citation{DBLP:journals/corr/abs-1809-11096}
 \citation{DBLP:journals/corr/abs-1912-04958}
@@ -22,11 +22,45 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-A}}StyleGAN2}{3}{}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {V}Method}{3}{}\protected@file@percent }
 \citation{haarcrop}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-A}}Face detection and emotion recognition}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {VI}Experiments}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {VII}Results}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-A}}Preprocessing: face and emotion detection}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-B}}Style transfer}{4}{}\protected@file@percent }
+\citation{BarsoumICMI2016}
+\citation{BarsoumICMI2016}
+\citation{FER2013}
+\citation{Johnson2016Perceptual}
+\citation{nvlabs_2019}
+\citation{DBLP:journals/corr/LinMBHPRDZ14}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-A}}Face detection}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-B}}Emotion recognition}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-C}}FERPlus Dataset}{4}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Comparison of FER and FERplus labels.\relax }}{4}{}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:fervsferplus}{{3}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-D}}Style transfer method proposal}{4}{}\protected@file@percent }
+\citation{DBLP:journals/corr/abs-1710-07557}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-E}}COCO 2014 dataset}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Experiments}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VI-A}}Face and emotion detection}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VI-B}}Style Transfer}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VI-C}}Robot state diagram}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Results}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-A}}Preprocessing: face and emotion detection}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {VII-B}}Style transfer}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {VIII}Conclusions}{5}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Robot flow diagram.\relax }}{6}{}\protected@file@percent }
+\newlabel{fig:state_machine}{{4}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Emotion classification true positive sample.\relax }}{6}{}\protected@file@percent }
+\newlabel{fig:figA}{{5}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Overall caption\relax }}{6}{}\protected@file@percent }
+\newlabel{fig:emotionandtime}{{6}{6}}
+\newlabel{fig:figA}{{7a}{7}}
+\newlabel{sub@fig:figA}{{a}{7}}
+\newlabel{fig:figB}{{7b}{7}}
+\newlabel{sub@fig:figB}{{b}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Graphs for face and emotion detection performance.\relax }}{7}{}\protected@file@percent }
+\newlabel{fig:emotionandtime}{{7}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Available style transfers for emotion context switching sample. From top to bottom: \emph  {The scream by Edvard Munch, The Starry Night by Vincent Van Gogh, La Musa (Mujer Leyendo) BY Pablo Picasso, Feathers b Kathryn Corlett, June tree BY Natasha wescoat. } \relax }}{7}{}\protected@file@percent }
+\newlabel{fig:figA}{{8}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Overall caption\relax }}{7}{}\protected@file@percent }
+\newlabel{fig:emotionandtime}{{9}{7}}
 \bibstyle{IEEEtran}
 \bibdata{references.bib}
 \bibcite{hololens}{1}
@@ -42,14 +76,12 @@
 \bibcite{DBLP:journals/corr/abs-1912-04958}{11}
 \bibcite{DBLP:journals/corr/abs-2006-06676}{12}
 \bibcite{haarcrop}{13}
-\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
-\newlabel{fig:figA}{{3a}{5}}
-\newlabel{sub@fig:figA}{{a}{5}}
-\newlabel{fig:figB}{{3b}{5}}
-\newlabel{sub@fig:figB}{{b}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Overall caption\relax }}{5}{}\protected@file@percent }
-\newlabel{fig:emotionandtime}{{3}{5}}
-\@writefile{toc}{\contentsline {section}{\numberline {VIII}Conclusions}{5}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{Appendix\nobreakspace  A: Appendix title}{5}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{References}{5}{}\protected@file@percent }
-\gdef \@abspage@last{5}
+\bibcite{BarsoumICMI2016}{14}
+\bibcite{FER2013}{15}
+\bibcite{Johnson2016Perceptual}{16}
+\bibcite{nvlabs_2019}{17}
+\bibcite{DBLP:journals/corr/LinMBHPRDZ14}{18}
+\bibcite{DBLP:journals/corr/abs-1710-07557}{19}
+\@writefile{toc}{\contentsline {section}{Appendix\nobreakspace  A: Appendix title}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{References}{8}{}\protected@file@percent }
+\gdef \@abspage@last{8}

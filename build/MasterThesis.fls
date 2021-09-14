@@ -241,6 +241,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmrc7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT .\state_of_the_art.tex
+INPUT state_of_the_art.tex
+INPUT .\state_of_the_art.tex
+INPUT state_of_the_art.tex
 OUTPUT d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.pdf
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
@@ -259,14 +263,16 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT .\resources\styleg.png
-INPUT .\resources\styleg.png
-INPUT resources\styleg.png
-INPUT .\resources\styleg.png
-INPUT .\resources\styleg.png
-INPUT .\resources\styleg.png
-INPUT .\resources\styleg.png
+INPUT .\resources\style_example.png
+INPUT .\resources\style_example.png
+INPUT resources\style_example.png
+INPUT .\resources\style_example.png
+INPUT .\resources\style_example.png
+INPUT .\resources\style_example.png
+INPUT .\resources\style_example.png
 INPUT .\resources\styleface.png
 INPUT .\resources\styleface.png
 INPUT resources\styleface.png
@@ -274,8 +280,35 @@ INPUT .\resources\styleface.png
 INPUT .\resources\styleface.png
 INPUT .\resources\styleface.png
 INPUT .\resources\styleface.png
+INPUT .\method.tex
+INPUT method.tex
+INPUT .\method.tex
+INPUT method.tex
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT .\resources\fervsferplus.png
+INPUT .\resources\fervsferplus.png
+INPUT resources\fervsferplus.png
+INPUT .\resources\fervsferplus.png
+INPUT .\resources\fervsferplus.png
+INPUT .\resources\fervsferplus.png
+INPUT .\resources\fervsferplus.png
+INPUT .\experiments.tex
+INPUT experiments.tex
+INPUT .\experiments.tex
+INPUT experiments.tex
+INPUT .\resources\style_norm_comp.png
+INPUT .\resources\style_norm_comp.png
+INPUT resources\style_norm_comp.png
+INPUT .\resources\style_norm_comp.png
+INPUT .\resources\style_norm_comp.png
+INPUT .\resources\style_norm_comp.png
+INPUT .\resources\style_norm_comp.png
+INPUT C:\Users\drkzt\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+INPUT C:\Users\drkzt\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+INPUT C:\Users\drkzt\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+INPUT C:\Users\drkzt\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pcr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr7t.tfm
 INPUT .\resources\state_machine.png
 INPUT .\resources\state_machine.png
 INPUT resources\state_machine.png
@@ -283,6 +316,24 @@ INPUT .\resources\state_machine.png
 INPUT .\resources\state_machine.png
 INPUT .\resources\state_machine.png
 INPUT .\resources\state_machine.png
+INPUT .\results.tex
+INPUT results.tex
+INPUT .\results.tex
+INPUT results.tex
+INPUT .\resources\emotion_faces_1.png
+INPUT .\resources\emotion_faces_1.png
+INPUT resources\emotion_faces_1.png
+INPUT .\resources\emotion_faces_1.png
+INPUT .\resources\emotion_faces_1.png
+INPUT .\resources\emotion_faces_1.png
+INPUT .\resources\emotion_faces_1.png
+INPUT .\resources\face_emo_time_series.png
+INPUT .\resources\face_emo_time_series.png
+INPUT resources\face_emo_time_series.png
+INPUT .\resources\face_emo_time_series.png
+INPUT .\resources\face_emo_time_series.png
+INPUT .\resources\face_emo_time_series.png
+INPUT .\resources\face_emo_time_series.png
 INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
 INPUT resources\emotionvsframe.png
@@ -290,13 +341,19 @@ INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
-INPUT .\resources\timeseriesplot.png
-INPUT .\resources\timeseriesplot.png
-INPUT resources\timeseriesplot.png
-INPUT .\resources\timeseriesplot.png
-INPUT .\resources\timeseriesplot.png
-INPUT .\resources\timeseriesplot.png
-INPUT .\resources\timeseriesplot.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT resources\styletransfer_emogrid.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT .\resources\styletransfer_emogrid.png
+INPUT .\conclusions.tex
+INPUT conclusions.tex
+INPUT .\conclusions.tex
+INPUT conclusions.tex
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT .\MasterThesis.bbl
 INPUT MasterThesis.bbl
 INPUT .\MasterThesis.bbl
@@ -307,6 +364,8 @@ INPUT d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.aux
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
