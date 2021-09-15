@@ -1,0 +1,34 @@
+
+\section{Physical prototype description}
+In this section, we will describe everything pertaining to the hardware side of this project.
+
+\subsection{Software package}
+
+The following different pieces of software were used to create this prototype:
+
+\begin{itemize}
+    \item Raspbian OS\cite{raspbian}: Linux distribution used in the Raspberry Pi.
+    \item Fritzing\cite{fritzing}: Software package used to generate the connection graphics for the electronics components.
+    \item Autodesk Fusion 360\cite{fusion360}: CAD program used to design printable parts needed for the robot.
+\end{itemize}
+
+
+    
+
+\subsection{Hardware used}
+
+The following list contains all the hardware we used for our robot:
+
+\begin{itemize}
+    \item \textbf{SG-90 servomotors}: chosen for their size and respectable 1.3 Kg-cm torque. 
+    \item \textbf{Raspberry Pi 4B 8GB}: chosen as the main controller for the robot. The extra RAM memory is needed as the internal GPU shares memory with the CPU.
+    
+    \item \textbf{PCA9685 12-Channel PWM Driver}: The Raspberry Pi only has a few hardware PWM enabled pins, with only two PWM channels available. To use more pins as PWM-enabled pins with more channels there are several software-based solutions, but we found these to negatively affect the performance of the robot, and powering the servos becomes cumbersome. As a result, we used an I2C based PWM generator, the PCA9685 12-Channel PWM Driver. This component can be connected to the Raspberry Pi through the I2C interface, and does not rely on the Pi's CPU to accurately generate the pulses needed to drive our three motors, and has the added benefit of having it's own power lines for the motors.
+    \item \textbf{3.3v 1S LiPo Battery + Adafruit Powerboost 1000C}: Step-up voltage regulator with undervoltage protection for our LiPo battery. This will be used to power the servomotors.
+    
+    \item \textbf{Qualcomm Quickcharge 3.0/USB Power delivery capable USB battery}: This battery will be used to power the Raspberry Pi. Either QC3.0 or USB PD is needed to provide 3A at 5V of power to the Raspberry Pi.
+    \end{itemize}
+
+\subsection{3D printed parts}
+
+We re-designed the previous robot completely. 

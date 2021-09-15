@@ -277,7 +277,7 @@
 
 % *** FLOAT PACKAGES ***
 %
-%\usepackage{fixltx2e}
+% \usepackage{fixltx2e}
 % fixltx2e, the successor to the earlier fix2col.sty, was written by
 % Frank Mittelbach and David Carlisle. This package corrects a few problems
 % in the LaTeX2e kernel, the most notable of which is that in current
@@ -386,7 +386,7 @@
 % paper title
 % can use linebreaks \\ within to get better formatting as desired
 % Do not put math or special symbols in the title.
-\title{ StyleArm: a style-transferring robot arm.}
+\title{ StyleArm: a style-transferring robotic arm.}
 %
 %
 % author names and IEEE memberships
@@ -457,9 +457,10 @@
 % As a general rule, do not put math, special symbols or citations
 % in the abstract or keywords.
 \begin{abstract}
-As the paradigm  of human-computer interaction shifts to increasingly intelligent systems that require no direct user inputs to provide services, the way we interact with our machines is still primarily "active interactions", as the computer requires some sort of direct user input to provide it's content.
+  As the paradigm of human-computer interaction shifts to increasingly intelligent systems that require no direct user inputs to provide services, the way we interact with our machines is still primarily "active interactions" as the computer requires direct user input to provide its content.
 
-In this master's thesis, we create a physical proof of concept that implements computer vision algorithms to aid in interaction, in the form of a self-built robotic arm with a camera that is able to interface with a Raspberry Pi, a small computer. The proof of concept utilizes a server-client connection with a higher powered machine capable of relaying images treated by a fast Style Transfer neural network in near real-time, switching the context of the style transfer depending on the facial expression of the user. The goal of this robot is to provide the user with a way to interact with computer vision processes they might find useful, like Style Transfer or image stitching for story-telling and publication on social media accounts. Initially, this project meant to optimize a style transfer GAN for use on a Raspberry Pi and provide a completely autonomous project, but we were unable to produce results that could be used in real time. 
+  In this master's thesis, we create a physical proof of concept that implements computer vision algorithms to aid in interaction in the form of a self-built robotic arm with a camera that can interface with a Raspberry Pi, a small computer. This robot aims to provide the user with a way to interact with computer vision processes they might find helpful, like Style Transfer for story-telling and publication on social media accounts. The proof of concept utilizes a feedforward style transfer neural network in near real-time in its hardware, switching the context of the style transfer depending on the user's facial expression.
+
 
 
 
@@ -485,20 +486,22 @@ In this master's thesis, we create a physical proof of concept that implements c
 \section{Introduction}
 
 
-\IEEEPARstart{H}{uman-computer} interaction has remained somewhat stagnant in terms of how we interact with our computers. Our "workflow" to interact with them has not had any major changes since modern operative systems were invented. This workflow would be to use some sort of input device, like a mouse or a touchscreen, to demand the computer to provide some sort of content. There have been alternative input methods proposed, but the overall paradigm has never changed. These alternative input methods, in our opinion, never reached full market potential because of one major issue: they require more work from the user, or an alteration of their traditional workflow. 
+\IEEEPARstart{H}{uman-computer} interaction has remained somewhat stagnant in terms of how we interact with our computers. Since the invention of modern operative systems, our "workflow" to interact with them has not changed significantly. This general workflow would be to use some input device, like a mouse or a touchscreen, to request a computer to provide some content. There have been alternative input methods proposed, but the overall paradigm has never changed. These alternative input methods, in our opinion, never reached full market potential because of one major issue: they require more work from the user or an alteration of their traditional workflow. 
 
 Microsoft's Hololens\cite{hololens}, one of the more recent proposals, is interesting because even though it requires a complete change in the user's interaction pattern with their device, it presents the user with intuitive interaction patterns in the form of "augmented reality" overlays on their field of view. The way this approach integrates use cases into a new "input space inspired this master's thesis. 
 
-In this Master's Thesis, we aim to produce a physical prototype slash a proof-of-concept, that integrates a few computer vision use cases for simple use by an average user. This project builds and improves upon my own Bachelor's final Thesis project\cite{stanley_duarte}.
+In this Master's Thesis, we aim to produce a physical prototype slash a proof-of-concept that integrates a few computer vision use cases for easy use by an average user. This project builds and improves upon the author's own Bachelor's final thesis project\cite{stanley_duarte}.
 
-The aim is to provide a simple gateway for any user to be able to take and save a picture after it has been treated by a Style Transfer neural network for story-telling and publication on social media accounts. An extra layer of interaction is provided by an emotion recognition system to provide relevant styles to the photographs, and the results can be viewed in an attached display. The robot is able to function as a picture frame and takes it's own pictures for the user whenever it's not in use (and has been allowed to).
-
+This robot aims to provide a simple gateway for any user to take and save a picture after a Style Transfer neural network has treated it for story-telling and publication on social media accounts. The robot can function as a picture frame and takes its pictures for the user whenever it is not in use (and has been allowed to). An emotion recognition system provides an extra layer of interaction to provide relevant styles to the photographs and displays the results in real-time on an attached display.
 
 \input{state_of_the_art.tex}
 
 \input{method.tex}
 
+\input{physical.tex}
+
 \input{experiments.tex}
+
 
 \input{results.tex}
 
@@ -511,10 +514,10 @@ Appendix one text goes here.
 
 
 % use section* for acknowledgement
-\section*{Acknowledgment}
+% \section*{Acknowledgment}
 
 
-The authors would like to thank...
+% The authors would like to thank...
 
 
 % Can use something like this to put references on a page

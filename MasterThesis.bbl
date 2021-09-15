@@ -100,12 +100,6 @@ T.~Karras, M.~Aittala, J.~Hellsten, S.~Laine, J.~Lehtinen, and T.~Aila,
   \url{https://arxiv.org/abs/2006.06676}
 \BIBentrySTDinterwordspacing
 
-\bibitem{haarcrop}
-T.~Gunawan, A.~Ashraf, B.~Riza, E.~Haryanto, R.~Rosnelly, M.~Kartiwi, and
-  Z.~Janin, ``Development of video-based emotion recognition using deep
-  learning with google colab,'' \emph{TELKOMNIKA Indonesian Journal of
-  Electrical Engineering}, vol.~18, pp. 2463--2471, 10 2020.
-
 \bibitem{BarsoumICMI2016}
 E.~Barsoum, C.~Zhang, C.~Canton~Ferrer, and Z.~Zhang, ``Training deep networks
   for facial expression recognition with crowd-sourced label distribution,'' in
@@ -116,6 +110,12 @@ E.~Barsoum, C.~Zhang, C.~Canton~Ferrer, and Z.~Zhang, ``Training deep networks
 2013. [Online]. Available:
   \url{https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data}
 \BIBentrySTDinterwordspacing
+
+\bibitem{haarcrop}
+T.~Gunawan, A.~Ashraf, B.~Riza, E.~Haryanto, R.~Rosnelly, M.~Kartiwi, and
+  Z.~Janin, ``Development of video-based emotion recognition using deep
+  learning with google colab,'' \emph{TELKOMNIKA Indonesian Journal of
+  Electrical Engineering}, vol.~18, pp. 2463--2471, 10 2020.
 
 \bibitem{Johnson2016Perceptual}
 J.~Johnson, A.~Alahi, and L.~Fei-Fei, ``Perceptual losses for real-time style
@@ -134,6 +134,21 @@ T.~Lin, M.~Maire, S.~J. Belongie, L.~D. Bourdev, R.~B. Girshick, J.~Hays,
   P.~Perona, D.~Ramanan, P.~Doll{\'{a}}r, and C.~L. Zitnick, ``Microsoft
   {COCO:} common objects in context,'' \emph{CoRR}, vol. abs/1405.0312, 2014.
   [Online]. Available: \url{http://arxiv.org/abs/1405.0312}
+\BIBentrySTDinterwordspacing
+
+\bibitem{raspbian}
+R.~P. Foundation, ``Raspbian os,'' https://www.raspbian.org/.
+
+\bibitem{fritzing}
+\BIBentryALTinterwordspacing
+F.~of~Fritzing~Foundatio, ``Fritzing.'' [Online]. Available:
+  \url{http://fritzing.org/home/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{fusion360}
+\BIBentryALTinterwordspacing
+Autodesk, ``Fusion360.'' [Online]. Available:
+  \url{https://www.autodesk.com/products/fusion-360/overview}
 \BIBentrySTDinterwordspacing
 
 \bibitem{DBLP:journals/corr/abs-1710-07557}

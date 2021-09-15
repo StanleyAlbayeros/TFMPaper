@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  14 SEP 2021 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  15 SEP 2021 21:19
 entering extended mode
 **d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
 (d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
@@ -218,192 +218,106 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-
-LaTeX Warning: Citation `hololens' on page 1 undefined on input line 490.
-
-
-LaTeX Warning: Citation `stanley_duarte' on page 1 undefined on input line 492.
-
-(state_of_the_art.tex
-
-LaTeX Warning: Citation `DBLP:journals/corr/GatysEB15a' on page 1 undefined on input line 4.
-
-
-LaTeX Warning: Citation `goodfellow2014generative' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `computation_2021' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `rumelhart86a' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `DBLP:journals/corr/BengioT13' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation `stylegan' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Reference `fig:style_ex' on page 1 undefined on input line 9.
-
-[1{C:/Users/drkzt/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<resources/style_example.png, id=7, 1877.51437pt x 928.97063pt>
+)) (state_of_the_art.tex [1{C:/Users/drkzt/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<resources/style_example.png, id=8, 1877.51437pt x 928.97063pt>
 File: resources/style_example.png Graphic file (type png)
 <use resources/style_example.png>
-Package pdftex.def Info: resources/style_example.png  used on input line 15.
+Package pdftex.def Info: resources/style_example.png  used on input line 13.
 (pdftex.def)             Requested size: 516.0pt x 255.3047pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
+(Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
-
-
-LaTeX Warning: Citation `radford_metz_chintala_2015' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `DBLP:journals/corr/abs-1809-11096' on page 2 undefined on input line 22.
-
-
-LaTeX Warning: Citation `DBLP:journals/corr/abs-1912-04958' on page 2 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:style_face' on page 2 undefined on input line 32.
-
-<resources/styleface.png, id=9, 328.22626pt x 439.6425pt>
+(Font)              <5> on input line 16.
+<resources/styleface.png, id=10, 328.22626pt x 439.6425pt>
 File: resources/styleface.png Graphic file (type png)
 <use resources/styleface.png>
-Package pdftex.def Info: resources/styleface.png  used on input line 36.
+Package pdftex.def Info: resources/styleface.png  used on input line 35.
 (pdftex.def)             Requested size: 227.62204pt x 304.88986pt.
-[2 <./resources/style_example.png>]
-
-LaTeX Warning: Citation `DBLP:journals/corr/abs-1912-04958' on page 3 undefined on input line 41.
-
-
-LaTeX Warning: Citation `DBLP:journals/corr/abs-2006-06676' on page 3 undefined on input line 48.
-
-) (method.tex [3 <./resources/styleface.png>]
-
-LaTeX Warning: Citation `haarcrop' on page 4 undefined on input line 22.
-
-
-LaTeX Warning: Citation `BarsoumICMI2016' on page 4 undefined on input line 22.
-
-
-LaTeX Warning: Citation `BarsoumICMI2016' on page 4 undefined on input line 27.
-
-
-LaTeX Warning: Citation `FER2013' on page 4 undefined on input line 27.
-
-
-LaTeX Warning: Reference `fig:fervsferplus' on page 4 undefined on input line 30.
-
-<resources/fervsferplus.png, id=20, 441.14813pt x 194.22563pt>
+ [2 <./resources/style_example.png>]) (method.tex [3 <./resources/styleface.png>]
+<resources/fervsferplus.png, id=19, 441.14813pt x 194.22563pt>
 File: resources/fervsferplus.png Graphic file (type png)
 <use resources/fervsferplus.png>
-Package pdftex.def Info: resources/fervsferplus.png  used on input line 35.
+Package pdftex.def Info: resources/fervsferplus.png  used on input line 18.
 (pdftex.def)             Requested size: 284.52756pt x 125.27605pt.
-
-LaTeX Warning: Citation `Johnson2016Perceptual' on page 4 undefined on input line 49.
-
-
-LaTeX Warning: Citation `nvlabs_2019' on page 4 undefined on input line 50.
-
-
-LaTeX Warning: Citation `DBLP:journals/corr/LinMBHPRDZ14' on page 4 undefined on input line 50.
-
-[4 <./resources/fervsferplus.png>]) (experiments.tex
-
-LaTeX Warning: Citation `DBLP:journals/corr/abs-1710-07557' on page 5 undefined on input line 17.
-
-
-LaTeX Warning: Reference `fig:norm_comp' on page 5 undefined on input line 34.
-
-<resources/style_norm_comp.png, id=25, 1461.20906pt x 380.92313pt>
-File: resources/style_norm_comp.png Graphic file (type png)
-<use resources/style_norm_comp.png>
-Package pdftex.def Info: resources/style_norm_comp.png  used on input line 39.
-(pdftex.def)             Requested size: 516.0pt x 134.51663pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `resources/total_frame_time.png' not found on input line 49.
-
-
-experiments.tex:49: Package pdftex.def Error: File `resources/total_frame_time.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 ...textwidth]{resources/total_frame_time.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 49.
-(C:\Users\drkzt\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<resources/state_machine.png, id=26, 1354.05875pt x 803.0pt>
+<resources/target_styles.png, id=20, 1367.1075pt x 279.29344pt>
+File: resources/target_styles.png Graphic file (type png)
+<use resources/target_styles.png>
+Package pdftex.def Info: resources/target_styles.png  used on input line 33.
+(pdftex.def)             Requested size: 464.39685pt x 94.87328pt.
+ [4 <./resources/fervsferplus.png> <./resources/target_styles.png>]) (physical.tex [5]) (experiments.tex [6]
+<resources/state_machine.png, id=33, 1354.05875pt x 803.0pt>
 File: resources/state_machine.png Graphic file (type png)
 <use resources/state_machine.png>
-Package pdftex.def Info: resources/state_machine.png  used on input line 63.
-(pdftex.def)             Requested size: 516.0pt x 306.01312pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (results.tex
-<resources/emotion_faces_1.png, id=27, 572.89032pt x 362.10281pt>
-File: resources/emotion_faces_1.png Graphic file (type png)
-<use resources/emotion_faces_1.png>
-Package pdftex.def Info: resources/emotion_faces_1.png  used on input line 14.
-(pdftex.def)             Requested size: 256.0748pt x 161.85628pt.
-<resources/face_emo_time_series.png, id=28, 410.0118pt x 327.8649pt>
-File: resources/face_emo_time_series.png Graphic file (type png)
-<use resources/face_emo_time_series.png>
-Package pdftex.def Info: resources/face_emo_time_series.png  used on input line 22.
-(pdftex.def)             Requested size: 213.48889pt x 170.71652pt.
-<resources/emotionvsframe.png, id=29, 449.0376pt x 340.6326pt>
+Package pdftex.def Info: resources/state_machine.png  used on input line 51.
+(pdftex.def)             Requested size: 412.80157pt x 244.79823pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 61.
+ (C:\Users\drkzt\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [7 <./resources/state_machine.png>]) (results.tex
+<resources/faceFPS.png, id=39, 416.2752pt x 317.988pt>
+File: resources/faceFPS.png Graphic file (type png)
+<use resources/faceFPS.png>
+Package pdftex.def Info: resources/faceFPS.png  used on input line 12.
+(pdftex.def)             Requested size: 165.12378pt x 126.13518pt.
+<resources/face_emoFPS.png, id=40, 416.9979pt x 317.988pt>
+File: resources/face_emoFPS.png Graphic file (type png)
+<use resources/face_emoFPS.png>
+Package pdftex.def Info: resources/face_emoFPS.png  used on input line 17.
+(pdftex.def)             Requested size: 165.12378pt x 125.91684pt.
+<resources/emotionvsframe.png, id=41, 449.0376pt x 340.6326pt>
 File: resources/emotionvsframe.png Graphic file (type png)
 <use resources/emotionvsframe.png>
-Package pdftex.def Info: resources/emotionvsframe.png  used on input line 26.
-(pdftex.def)             Requested size: 225.04582pt x 170.71652pt.
+Package pdftex.def Info: resources/emotionvsframe.png  used on input line 22.
+(pdftex.def)             Requested size: 165.12378pt x 125.25763pt.
+<resources/emotion_faces_0.png, id=42, 572.89032pt x 362.10281pt>
+File: resources/emotion_faces_0.png Graphic file (type png)
+<use resources/emotion_faces_0.png>
+Package pdftex.def Info: resources/emotion_faces_0.png  used on input line 38.
+(pdftex.def)             Requested size: 206.39685pt x 130.45636pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<resources/styletransfer_emogrid.png, id=30, 1458.19781pt x 773.13844pt>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 48.
+[8 <./resources/faceFPS.png> <./resources/face_emoFPS.png> <./resources/emotionvsframe.png>]
+<resources/style_norm_comp.png, id=49, 1367.8603pt x 355.3275pt>
+File: resources/style_norm_comp.png Graphic file (type png)
+<use resources/style_norm_comp.png>
+Package pdftex.def Info: resources/style_norm_comp.png  used on input line 71.
+(pdftex.def)             Requested size: 464.39685pt x 120.63625pt.
+<resources/finalFPS.png, id=50, 490.4724pt x 320.8788pt>
+File: resources/finalFPS.png Graphic file (type png)
+<use resources/finalFPS.png>
+Package pdftex.def Info: resources/finalFPS.png  used on input line 82.
+(pdftex.def)             Requested size: 230.4996pt x 150.79968pt.
+<resources/result_generation_time.png, id=51, 429.0429pt x 317.988pt>
+File: resources/result_generation_time.png Graphic file (type png)
+<use resources/result_generation_time.png>
+Package pdftex.def Info: resources/result_generation_time.png  used on input line 87.
+(pdftex.def)             Requested size: 203.46361pt x 150.79968pt.
+<resources/styletransfer_emogrid.png, id=52, 1458.19781pt x 773.13844pt>
 File: resources/styletransfer_emogrid.png Graphic file (type png)
 <use resources/styletransfer_emogrid.png>
-Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line 44.
+Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line 100.
 (pdftex.def)             Requested size: 516.0pt x 273.57538pt.
-[5]) (conclusions.tex) [6 <./resources/style_norm_comp.png>] [7] [8 <./resources/state_machine.png> <./resources/emotion_faces_1.png>] [9 <./resources/face_emo_time_series.png> <./resources/emotionvsframe.png> <./resources/styletransfer_emogrid.png>] (MasterThesis.bbl) [10
+ [9 <./resources/emotion_faces_0.png> <./resources/style_norm_comp.png> <./resources/finalFPS.png> <./resources/result_generation_time.png>]) (conclusions.tex [10 <./resources/styletransfer_emogrid.png>]) [11] (MasterThesis.bbl) [12
 
-] (d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3937 strings out of 478864
- 70336 string characters out of 2858517
- 375518 words of memory out of 3000000
- 21811 multiletter control sequences out of 15000+600000
- 439073 words of font info for 84 fonts, out of 8000000 for 9000
+ 3942 strings out of 478864
+ 70135 string characters out of 2858517
+ 367518 words of memory out of 3000000
+ 21817 multiletter control sequences out of 15000+600000
+ 441802 words of font info for 90 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 57i,8n,66p,1226b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.pdf (10 pages, 13046453 bytes).
+ 57i,8n,66p,1213b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.pdf (12 pages, 15082771 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

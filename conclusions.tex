@@ -1,4 +1,25 @@
 
 \section{Conclusions}
 
-In this Computer Vision Master's thesis we have implemented machine learning and traditional computer vision methods on a physical prototype capable of functioning at real-time. 
+In this section, we discuss what we achieved and the conclusions of the project. 
+
+The initial goal of this thesis was to create a physical proof of concept that implements computer vision algorithms to aid in interaction in the form of a self-built robotic arm with a camera. This robot's purpose was to allow users to easily interact with computer vision processes like style transfer for story-telling and publication on social media.
+
+In this Computer Vision Master's thesis, we have implemented several computer vision methods using machine learning and traditional methods on a physical prototype capable of functioning in real-time. We have produced a physical prototype at the MVP stage of development with all initial objectives accomplished.
+We have adapted face and emotion recognition that works in real-time on the Raspberry Pi's hardware.
+
+Even though we failed at adapting a Generative Adversarial Network to run inference at a reasonably fast framerate on the Raspberry Pi's hardware, we finalized a style transfer feedforward neural network that works on it in real-time.  
+
+We have also integrated our methods into a cohesive software and hardware package that can serve results to the end-user in a fast and effective manner, without relying on external services to perform its primary functions.
+
+
+\section{Future work}
+
+In this last section, we would like to introduce a short discussion about future improvements and the next steps needed to improve the quality of the MVP. 
+
+We believe that the StylePi network is capable of producing results at a faster rate. A deeper understanding of the Raspberry Pi architecture and the use of a 64-bit OS instead of the public, stable release of Raspbian OS 32-bit used in this project should allow for a modest boost in performance for both framerate and resolution of the images in the "low resolution" mode.
+Our feedforward architecture based on VGG19 is not the only method to implement a neural network that can work in real-time on this hardware. A deeper understanding of our target platform and more experience designing and training neural networks should also result in better performance for our robot.
+
+We also wish we could have had implemented a way to record and style transfer a video using this prototype, but our implementation did not allow us to do so without turning off the live-view feature of the low-resolution style transfer mode.
+
+After going through a few test cycles and having other users use the robot, we realized we had a few oversights in the design decisions for the interface. A Telegram bot and directly accessing the Raspberry Pi's storage should not be the only ways to access the produced images. We propose other methods with familiar third parties like Google and Apple account log-in, allowing users to upload the generated images to their services. 
