@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  15 SEP 2021 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  15 SEP 2021 22:01
 entering extended mode
 **d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
 (d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
@@ -181,11 +181,7 @@ Package: cite 2015/02/27  v 5.5
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box51
-) (MasterThesis.aux
-
-LaTeX Warning: Label `fig:style_norm_comp' multiply defined.
-
-)
+) (MasterThesis.aux)
 \openout1 = `MasterThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 384.
@@ -243,41 +239,56 @@ File: resources/fervsferplus.png Graphic file (type png)
 <use resources/fervsferplus.png>
 Package pdftex.def Info: resources/fervsferplus.png  used on input line 18.
 (pdftex.def)             Requested size: 284.52756pt x 125.27605pt.
-<resources/style_norm_comp.png, id=20, 1367.8603pt x 355.3275pt>
-File: resources/style_norm_comp.png Graphic file (type png)
-<use resources/style_norm_comp.png>
-Package pdftex.def Info: resources/style_norm_comp.png  used on input line 32.
-(pdftex.def)             Requested size: 464.39685pt x 120.63625pt.
-<resources/target_styles.png, id=21, 1367.1075pt x 279.29344pt>
+<resources/target_styles.png, id=20, 1367.1075pt x 279.29344pt>
 File: resources/target_styles.png Graphic file (type png)
 <use resources/target_styles.png>
-Package pdftex.def Info: resources/target_styles.png  used on input line 55.
+Package pdftex.def Info: resources/target_styles.png  used on input line 33.
 (pdftex.def)             Requested size: 464.39685pt x 94.87328pt.
+ [4 <./resources/fervsferplus.png> <./resources/target_styles.png>]) (physical.tex [5]
+<resources/fritzing.png, id=30, 864.831pt x 671.308pt>
+File: resources/fritzing.png Graphic file (type png)
+<use resources/fritzing.png>
+Package pdftex.def Info: resources/fritzing.png  used on input line 35.
+(pdftex.def)             Requested size: 412.80157pt x 320.4316pt.
+<resources/final_robot_assembly_transp.png, id=31, 1263.97218pt x 547.2947pt>
+File: resources/final_robot_assembly_transp.png Graphic file (type png)
+<use resources/final_robot_assembly_transp.png>
+Package pdftex.def Info: resources/final_robot_assembly_transp.png  used on input line 50.
+(pdftex.def)             Requested size: 516.0pt x 223.42355pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./resources/fervsferplus.png> <./resources/style_norm_comp.png>] [5 <./resources/target_styles.png>]) (physical.tex) (experiments.tex [6]
-<resources/state_machine.png, id=35, 1354.05875pt x 803.0pt>
+<resources/final_robot_assembly_view2.png, id=32, 1150.2975pt x 1107.13625pt>
+File: resources/final_robot_assembly_view2.png Graphic file (type png)
+<use resources/final_robot_assembly_view2.png>
+Package pdftex.def Info: resources/final_robot_assembly_view2.png  used on input line 56.
+(pdftex.def)             Requested size: 412.80157pt x 397.30173pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (experiments.tex [6 <./resources/fritzing.png>] [7 <./resources/final_robot_assembly_transp.png>]
+<resources/state_machine.png, id=42, 1354.05875pt x 803.0pt>
 File: resources/state_machine.png Graphic file (type png)
 <use resources/state_machine.png>
 Package pdftex.def Info: resources/state_machine.png  used on input line 51.
 (pdftex.def)             Requested size: 412.80157pt x 244.79823pt.
+ [8 <./resources/final_robot_assembly_view2.png>]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 61.
  (C:\Users\drkzt\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [7]) (results.tex
-<resources/faceFPS.png, id=40, 416.2752pt x 317.988pt>
+)) (results.tex
+<resources/faceFPS.png, id=47, 416.2752pt x 317.988pt>
 File: resources/faceFPS.png Graphic file (type png)
 <use resources/faceFPS.png>
 Package pdftex.def Info: resources/faceFPS.png  used on input line 12.
 (pdftex.def)             Requested size: 165.12378pt x 126.13518pt.
-<resources/face_emoFPS.png, id=41, 416.9979pt x 317.988pt>
+<resources/face_emoFPS.png, id=48, 416.9979pt x 317.988pt>
 File: resources/face_emoFPS.png Graphic file (type png)
 <use resources/face_emoFPS.png>
 Package pdftex.def Info: resources/face_emoFPS.png  used on input line 17.
 (pdftex.def)             Requested size: 165.12378pt x 125.91684pt.
-<resources/emotionvsframe.png, id=42, 449.0376pt x 340.6326pt>
+<resources/emotionvsframe.png, id=49, 449.0376pt x 340.6326pt>
 File: resources/emotionvsframe.png Graphic file (type png)
 <use resources/emotionvsframe.png>
 Package pdftex.def Info: resources/emotionvsframe.png  used on input line 22.
@@ -286,38 +297,39 @@ Package pdftex.def Info: resources/emotionvsframe.png  used on input line 22.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<resources/emotion_faces_0.png, id=43, 572.89032pt x 362.10281pt>
+[9 <./resources/state_machine.png>]
+<resources/emotion_faces_0.png, id=54, 572.89032pt x 362.10281pt>
 File: resources/emotion_faces_0.png Graphic file (type png)
 <use resources/emotion_faces_0.png>
 Package pdftex.def Info: resources/emotion_faces_0.png  used on input line 38.
 (pdftex.def)             Requested size: 206.39685pt x 130.45636pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 48.
-[8 <./resources/state_machine.png>]
+<resources/style_norm_comp.png, id=55, 1367.8603pt x 355.3275pt>
 File: resources/style_norm_comp.png Graphic file (type png)
 <use resources/style_norm_comp.png>
 Package pdftex.def Info: resources/style_norm_comp.png  used on input line 71.
 (pdftex.def)             Requested size: 464.39685pt x 120.63625pt.
-<resources/finalFPS.png, id=48, 490.4724pt x 320.8788pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<resources/finalFPS.png, id=56, 490.4724pt x 320.8788pt>
 File: resources/finalFPS.png Graphic file (type png)
 <use resources/finalFPS.png>
 Package pdftex.def Info: resources/finalFPS.png  used on input line 82.
 (pdftex.def)             Requested size: 230.4996pt x 150.79968pt.
-<resources/result_generation_time.png, id=49, 429.0429pt x 317.988pt>
+<resources/result_generation_time.png, id=57, 429.0429pt x 317.988pt>
 File: resources/result_generation_time.png Graphic file (type png)
 <use resources/result_generation_time.png>
 Package pdftex.def Info: resources/result_generation_time.png  used on input line 87.
 (pdftex.def)             Requested size: 203.46361pt x 150.79968pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<resources/styletransfer_emogrid.png, id=50, 1458.19781pt x 773.13844pt>
+<resources/styletransfer_emogrid.png, id=58, 1458.19781pt x 773.13844pt>
 File: resources/styletransfer_emogrid.png Graphic file (type png)
 <use resources/styletransfer_emogrid.png>
 Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line 100.
@@ -325,25 +337,21 @@ Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [9 <./resources/faceFPS.png> <./resources/face_emoFPS.png> <./resources/emotionvsframe.png> <./resources/emotion_faces_0.png>] (conclusions.tex [10 <./resources/finalFPS.png> <./resources/result_generation_time.png> <./resources/styletransfer_emogrid.png>]) [11] (MasterThesis.bbl) [12
+) [10 <./resources/faceFPS.png> <./resources/face_emoFPS.png> <./resources/emotionvsframe.png> <./resources/emotion_faces_0.png>] (conclusions.tex [11 <./resources/style_norm_comp.png> <./resources/finalFPS.png> <./resources/result_generation_time.png>]) [12 <./resources/styletransfer_emogrid.png>] (MasterThesis.bbl) [13
 
-] (MasterThesis.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+] (MasterThesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3941 strings out of 478864
- 69938 string characters out of 2858517
- 368518 words of memory out of 3000000
- 21817 multiletter control sequences out of 15000+600000
+ 3965 strings out of 478864
+ 70797 string characters out of 2858517
+ 367518 words of memory out of 3000000
+ 21838 multiletter control sequences out of 15000+600000
  441802 words of font info for 90 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  57i,8n,66p,1213b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MasterThesis.pdf (12 pages, 15082846 bytes).
+Output written on MasterThesis.pdf (13 pages, 16257342 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

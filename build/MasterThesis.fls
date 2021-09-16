@@ -298,10 +298,33 @@ INPUT .\resources\target_styles.png
 INPUT .\resources\target_styles.png
 INPUT .\resources\target_styles.png
 INPUT .\resources\target_styles.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\physical.tex
 INPUT physical.tex
 INPUT .\physical.tex
 INPUT physical.tex
+INPUT .\resources\fritzing.png
+INPUT .\resources\fritzing.png
+INPUT resources\fritzing.png
+INPUT .\resources\fritzing.png
+INPUT .\resources\fritzing.png
+INPUT .\resources\fritzing.png
+INPUT .\resources\fritzing.png
+INPUT .\resources\final_robot_assembly_view2.png
+INPUT .\resources\final_robot_assembly_view2.png
+INPUT resources\final_robot_assembly_view2.png
+INPUT .\resources\final_robot_assembly_view2.png
+INPUT .\resources\final_robot_assembly_view2.png
+INPUT .\resources\final_robot_assembly_view2.png
+INPUT .\resources\final_robot_assembly_view2.png
 INPUT .\experiments.tex
 INPUT experiments.tex
 INPUT .\experiments.tex
@@ -325,6 +348,13 @@ INPUT .\results.tex
 INPUT results.tex
 INPUT .\results.tex
 INPUT results.tex
+INPUT .\resources\final_luxopi.png
+INPUT .\resources\final_luxopi.png
+INPUT resources\final_luxopi.png
+INPUT .\resources\final_luxopi.png
+INPUT .\resources\final_luxopi.png
+INPUT .\resources\final_luxopi.png
+INPUT .\resources\final_luxopi.png
 INPUT .\resources\faceFPS.png
 INPUT .\resources\faceFPS.png
 INPUT resources\faceFPS.png
@@ -346,21 +376,6 @@ INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
 INPUT .\resources\emotionvsframe.png
-INPUT .\resources\emotion_faces_0.png
-INPUT .\resources\emotion_faces_0.png
-INPUT resources\emotion_faces_0.png
-INPUT .\resources\emotion_faces_0.png
-INPUT .\resources\emotion_faces_0.png
-INPUT .\resources\emotion_faces_0.png
-INPUT .\resources\emotion_faces_0.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\resources\style_norm_comp.png
 INPUT .\resources\style_norm_comp.png
 INPUT resources\style_norm_comp.png
@@ -389,6 +404,8 @@ INPUT .\resources\styletransfer_emogrid.png
 INPUT .\resources\styletransfer_emogrid.png
 INPUT .\resources\styletransfer_emogrid.png
 INPUT .\resources\styletransfer_emogrid.png
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\conclusions.tex
 INPUT conclusions.tex
 INPUT .\conclusions.tex
@@ -399,6 +416,52 @@ INPUT .\MasterThesis.bbl
 INPUT MasterThesis.bbl
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT .\Annex.tex
+INPUT Annex.tex
+INPUT .\Annex.tex
+INPUT Annex.tex
+INPUT .\resources\altview1.png
+INPUT .\resources\altview1.png
+INPUT resources\altview1.png
+INPUT .\resources\altview1.png
+INPUT .\resources\altview1.png
+INPUT .\resources\altview1.png
+INPUT .\resources\altview1.png
+INPUT .\resources\altview2.png
+INPUT .\resources\altview2.png
+INPUT resources\altview2.png
+INPUT .\resources\altview2.png
+INPUT .\resources\altview2.png
+INPUT .\resources\altview2.png
+INPUT .\resources\altview2.png
+INPUT .\resources\altview3.png
+INPUT .\resources\altview3.png
+INPUT resources\altview3.png
+INPUT .\resources\altview3.png
+INPUT .\resources\altview3.png
+INPUT .\resources\altview3.png
+INPUT .\resources\altview3.png
+INPUT .\resources\arm_assembly.png
+INPUT .\resources\arm_assembly.png
+INPUT resources\arm_assembly.png
+INPUT .\resources\arm_assembly.png
+INPUT .\resources\arm_assembly.png
+INPUT .\resources\arm_assembly.png
+INPUT .\resources\arm_assembly.png
+INPUT .\resources\LCD_case.png
+INPUT .\resources\LCD_case.png
+INPUT resources\LCD_case.png
+INPUT .\resources\LCD_case.png
+INPUT .\resources\LCD_case.png
+INPUT .\resources\LCD_case.png
+INPUT .\resources\LCD_case.png
+INPUT .\resources\internal_wiring.jpg
+INPUT .\resources\internal_wiring.jpg
+INPUT resources\internal_wiring.jpg
+INPUT .\resources\internal_wiring.jpg
+INPUT .\resources\internal_wiring.jpg
+INPUT .\resources\internal_wiring.jpg
+INPUT .\resources\internal_wiring.jpg
 INPUT d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.aux
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb

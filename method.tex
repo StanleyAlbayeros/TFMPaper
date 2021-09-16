@@ -16,7 +16,7 @@ The FERPlus dataset improves the previous FER dataset by re-tagging the dataset 
 \begin{figure}[h]
   \centering
   \includegraphics[width=10cm]{resources/fervsferplus.png}
-  \caption{Comparison of FER and FERplus labels.}\label{fig:fervsferplus}
+  \caption{Comparison of FER and FERplus labels. Image obtained from the FERPlus paper\cite{BarsoumICMI2016}.}\label{fig:fervsferplus}
 \end{figure}
 
 
@@ -37,15 +37,14 @@ Microsoft released their COCO 2014 training dataset as part of a more extensive 
 
 We selected five different paintings to be our target styles an assign them an emotion:
          \begin{itemize}
-          \item \emph{The Scream} By Edvard Munch for the "anger" emotion,
-          \item \emph{The Starry Night} By Vincent Van Gogh for the "Sadness" emotion,
-          \item \emph{La Musa (Mujer Leyendo)} By Pablo Picasso for the "Fear" emotion,
-          \item \emph{Feathers} By Kathryn Corlett for the "Hapiness" emotion,
-          \item \emph{June tree} By Natasha wescoat for the "Surprise" emotion.
-
+          \item \emph{The Scream} By Edvard Munch\footnote{From: https://www.edvardmunch.org/the-scream.jsp}  for the "anger" emotion, 
+          \item \emph{The Starry Night} By Vincent Van Gogh\footnote{From: https://www.vangoghgallery.com/painting/starry-night.html} for the "Sadness" emotion,
+          \item \emph{La Musa (Mujer Leyendo)} By Pablo Picasso\footnote{From: https://www.slobidka.com/pablo-picasso/158-picasso-la-musa-mujer-leyendo.html} for the "Fear" emotion,
+          \item \emph{Feathers} By Kathryn Corlett\footnote{from: https://www.ebsqart.com/Artist/Natasha-Wescoat/1439/Art-Portfolio/June-Tree/717313/} for the "Hapiness" emotion,
+          \item \emph{June tree} By Natasha Wescoat\footnote{From: http://kathryncorlett.blogspot.com/2012/05/wallpaper-feathers-petals-leaves.html} for the "Surprise" emotion.
 \end{itemize}
 
-These particular paintings were selected for various reasons. The first, is that some of them are widely used in other style transfer works, so we could compare qualitative results while we were developing them, like \emph{The scream} or \emph{The Starry Night}. We also found some target styles interesting, like \emph{Feathers} and \emph{June tree}. 
+These particular paintings were selected for various reasons. The first, is that some of them are widely used in other style transfer works, so we could compare qualitative results while we were developing them, like \emph{The scream} or \emph{The Starry Night}. We also found some target styles interesting enough to include them, like \emph{Feathers} and \emph{June tree}. 
 
 The emotions assigned to each style were not pre-selected, meaning we did not select a particular style to portray a particular emotion, as the final style transfer image would sometimes not correspond to our pre-selected style. With \emph{The scream}, for instance, logic would have it that it would be selected to represent surprise or fear as that seems to be the motif of the painting, but in our results, we think the black and red hues and aggressive brushstrokes of the style-transferred image confer a more angry emotion rather than the other two.
 

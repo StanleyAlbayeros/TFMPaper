@@ -42,15 +42,16 @@ If the user does not want to use the Telegram bot, we save all images to an outp
 
 \subsection{Robot state diagram: how it comes together}
 
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\textwidth]{resources/state_machine.png}
+  \caption{Robot state machine diagram.}\label{fig:state_machine}
+\end{figure}
+
 With all of our methods in place and working correctly, the only thing missing is the logic that connects them to form a product. In fig. \ref{fig:state_machine} you will find the state machine that describes our implementation of the robot's operating process. 
 
 
 
-\begin{figure}[hb]
-  \centering
-  \includegraphics[width=0.8\textwidth]{resources/state_machine.png}
-  \caption{Robot state machine diagram.}\label{fig:state_machine}
-\end{figure}
 
 We tried to keep the diagram simple for clarity, so it requires a few clarifications.
 
@@ -64,4 +65,3 @@ If we follow an execution where a user starts the robot, walks into the field of
   \item \textbf{Whenever the face is lost, go back to state 2.}
   \item \textbf{At any point:} The user can use a keypress for cycling through the available pre-trained models for the style transfer. If the user cycles to the next model, emotion recognition and style context switching are put on hold until they start it again.
 \end{enumerate}
-
