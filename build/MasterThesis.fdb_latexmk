@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex MasterThesis"] 1631742198 "MasterThesis.aux" "MasterThesis.bbl" "MasterThesis" 1631742526
+["bibtex MasterThesis"] 1631742198 "MasterThesis.aux" "MasterThesis.bbl" "MasterThesis" 1631801535
   "./IEEEtran.bst" 1631539714 59215 bc5380b3434a66b895bbc75d3d380540 ""
   "MasterThesis.aux" 1631736110 8472 86e80609aef1c5520a5e45b35ac10c32 ""
   "references.bib" 1631733643 12783 bb2871c20ead89515fedd755d0a41231 ""
   (generated)
-  "MasterThesis.blg"
   "MasterThesis.bbl"
-["pdflatex"] 1631742519 "d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex" "build/MasterThesis.pdf" "MasterThesis" 1631742526
+  "MasterThesis.blg"
+["pdflatex"] 1631801529 "d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex" "build/MasterThesis.pdf" "MasterThesis" 1631801535
   "Annex.tex" 1631742234 1372 ddd81a3a7dcd3cc98aa9d243c56b8ff0 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136772254 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -60,12 +60,12 @@
   "IEEEtran.cls" 1631539714 215484 3585e63204c3b8111bb2bf0eda265d43 ""
   "MasterThesis.bbl" 1631742198 6726 cacbb002b1922b9b06ce004d14630b05 "bibtex MasterThesis"
   "MasterThesis.tex" 1631739452 24938 a427262e14c9e1886510476d824909b0 ""
-  "build/MasterThesis.aux" 1631742525 9624 b885ec1fe4e8e162a6de2967f0a0afd9 "pdflatex"
+  "build/MasterThesis.aux" 1631801534 9624 b885ec1fe4e8e162a6de2967f0a0afd9 "pdflatex"
   "conclusions.tex" 1631733221 2905 f2bde23b2b7c6e068ec90e34b3e1037f ""
   "d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex" 1631739452 24938 a427262e14c9e1886510476d824909b0 ""
   "experiments.tex" 1631737410 8448 21a41ae98f97b45a3673842c669993cb ""
   "method.tex" 1631740943 8583 ad7e4e48c52b9e00ade930dc2f5c165f ""
-  "physical.tex" 1631742518 3377 04a07a71c456184f178477400352b0e6 ""
+  "physical.tex" 1631801528 3375 6ef8825b8f0e55ef6a9b710d042d767f ""
   "resources/LCD_case.png" 1631741965 93441 43ba52b95c74a8bc8e7d1d0c8a7f93b2 ""
   "resources/altview1.png" 1631741000 242016 cee2df29614d4576f0cd4e83041740a1 ""
   "resources/altview2.png" 1631741087 163019 bd2714dfe5e0c677121d7fabbb6ec297 ""
