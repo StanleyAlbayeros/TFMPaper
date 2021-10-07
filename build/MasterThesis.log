@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  16 SEP 2021 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  20 SEP 2021 20:08
 entering extended mode
 **d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
 (d:/Classes/Master/TFM/TFMPaper/MasterThesis.tex
@@ -294,20 +294,20 @@ File: resources/emotionvsframe.png Graphic file (type png)
 Package pdftex.def Info: resources/emotionvsframe.png  used on input line 33.
 (pdftex.def)             Requested size: 165.12378pt x 125.25763pt.
  [9 <./resources/final_luxopi.png> <./resources/faceFPS.png> <./resources/face_emoFPS.png> <./resources/emotionvsframe.png>]
-<resources/style_norm_comp.png, id=57, 1367.8603pt x 355.3275pt>
+<resources/style_norm_comp.png, id=57, 1368.61313pt x 355.3275pt>
 File: resources/style_norm_comp.png Graphic file (type png)
 <use resources/style_norm_comp.png>
 Package pdftex.def Info: resources/style_norm_comp.png  used on input line 84.
-(pdftex.def)             Requested size: 464.39685pt x 120.63625pt.
+(pdftex.def)             Requested size: 464.39685pt x 120.56575pt.
 <resources/finalFPS.png, id=58, 490.4724pt x 320.8788pt>
 File: resources/finalFPS.png Graphic file (type png)
 <use resources/finalFPS.png>
-Package pdftex.def Info: resources/finalFPS.png  used on input line 95.
+Package pdftex.def Info: resources/finalFPS.png  used on input line 94.
 (pdftex.def)             Requested size: 230.4996pt x 150.79968pt.
 <resources/result_generation_time.png, id=59, 429.0429pt x 317.988pt>
 File: resources/result_generation_time.png Graphic file (type png)
 <use resources/result_generation_time.png>
-Package pdftex.def Info: resources/result_generation_time.png  used on input line 100.
+Package pdftex.def Info: resources/result_generation_time.png  used on input line 99.
 (pdftex.def)             Requested size: 203.46361pt x 150.79968pt.
 
 
@@ -316,7 +316,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <resources/styletransfer_emogrid.png, id=60, 1458.19781pt x 773.13844pt>
 File: resources/styletransfer_emogrid.png Graphic file (type png)
 <use resources/styletransfer_emogrid.png>
-Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line 113.
+Package pdftex.def Info: resources/styletransfer_emogrid.png  used on input line 112.
 (pdftex.def)             Requested size: 516.0pt x 273.57538pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -373,13 +373,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Here is how much of TeX's memory you used:
  4014 strings out of 478864
  71980 string characters out of 2858517
- 373518 words of memory out of 3000000
+ 372518 words of memory out of 3000000
  21876 multiletter control sequences out of 15000+600000
  443387 words of font info for 92 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  57i,8n,66p,1213b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.pdf (16 pages, 22566985 bytes).
+Output written on d:\Classes\Master\TFM\TFMPaper\build\MasterThesis.pdf (16 pages, 22567054 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

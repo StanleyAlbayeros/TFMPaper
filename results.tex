@@ -76,17 +76,16 @@ We produced these results by running the network through a subset of images rese
 \subsection{Style transfer}
 
 
-As discussed in the experiments section, we implemented StylePi using batch normalization instead of instance normalization. For the most part, this does not affect the quality of the images, but it does ocassionally generate interesting artifacts that produce a clearly different visual result as an effect of batch normalization, as seen in an example on Figure \ref{fig:style_norm_comp}. We believe that this difference, or "pattern-ization" of the image is the product of how batch normalization works, as we can see in the same figure how the "swirling" pattern of Van Gogh's starry night repeats itself in a regular manner. It is not clear to the author under what conditions this happens, as all models have exhibited this behaviour at some point of the experimental phase.
+As discussed in the experiments section, we implemented StylePi using instance normalization instead of batch normalization. For the most part, this does not affect the quality of the images, but it does ocassionally generate interesting artifacts that produce a clearly different visual result as an effect of instance normalization, as seen in an example on Figure \ref{fig:style_norm_comp}. We believe that this difference, or "pattern-ization" of the image is the product of how instance normalization works, as we can see in the same figure how the "swirling" pattern of Van Gogh's starry night repeats itself in a regular manner. It is not clear to the author under what conditions this happens, as all models have exhibited this behaviour at some point of the experimental phase.
 
 
 \begin{figure}[h]
     \centering
     \includegraphics[width = 0.9\textwidth]{resources/style_norm_comp.png}
-    \caption{Comparison of instance vs batch normalization}
-    \label{fig:style_norm_comp}
+    \caption{Comparison of instance vs batch normalization}\label{fig:style_norm_comp}
 \end{figure}
 
-Ultimately, however, batch normalization was able to provide an average processing time of 0.47 seconds per frame over a 400 frame sample, as seen in Figure \ref{fig:finalFPS}.
+Ultimately, however, instance normalization was able to provide an average processing time of 0.47 seconds per frame over a 400 frame sample, as seen in Figure \ref{fig:finalFPS}.
 
 \begin{figure}[h]
     \centering
